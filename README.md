@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">Codifico em </h2>
+<h2 align="left">Codificando em </h2>
 
 ###
 
