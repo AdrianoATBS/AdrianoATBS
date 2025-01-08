@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=588775351319922264" height="714" width="345" frameborder="0" scrolling="no" ></iframe>
+  [<iframe src="https://assets.pinterest.com/ext/embed.html?id=588775351319922264" height="714" width="345" frameborder="0" scrolling="no" ></iframe>](https://pin.it/29nYnot9m)
 </p>
