@@ -10,8 +10,8 @@
 
 - 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Estácio.
 - 💻 Estudando **C# e .NET** com foco em **Clean Architecture** e boas práticas.
-- 🚀 Interessado em desenvolvimento de APIs, banco de dados e projetos inclusivos.
-- 🎯 Objetivo: Me especializar em **arquiteturas modernas** e contribuir para soluções inovadoras.
+- 🚀 Interessado em desenvolvimento de APIs, banco de dados e soluções tecnológicas que causem impacto positivo.
+- 🎯 Objetivo: Desenvolver sistemas eficientes e escaláveis, aplicando boas práticas de desenvolvimento.
 - 🛡️ Interesse em **Cyber Segurança** como um campo de exploração futura.
 
 ---
@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://i.pinimg.com/originals/53/f0/9c/53f09c2bab801aabfe1ceae5d5a4c15c.gif" alt="Imagem" />
+  <img align="center" src="https://i.pinimg.com/originals/f2/42/99/f242993bff60bcff09b7b8ebc77b6040.gif" alt="Terminal Animado" />
 </p>
