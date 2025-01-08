@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Bem-vindo! 👋</h1>
 
 <p align="center">
-  Meu nome é <b>Adriano Teixeira</b>, tenho 20 anos e sou apaixonado por tecnologia. Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> e estou focado em me tornar um <b>Desenvolvedor Back-End</b>.
+  Meu nome é <b>Adriano Teixeira</b>, tenho 21 anos e sou apaixonado por tecnologia. Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> e estou focado em me tornar um <b>Desenvolvedor Back-End</b>.
 </p>
 
 ---
