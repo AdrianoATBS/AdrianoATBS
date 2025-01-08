@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://pin.it/6QVIUqFkRm" alt="GIF Programação" />
+  <img align="center" srchttps://assets.pinterest.com/ext/embed.html?id=77067855500520137" alt="GIF Programação" />
 </p>
