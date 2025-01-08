@@ -1,57 +1,72 @@
-<h1 align="left">Olá, Bem-vindo</h1>
-
-###
-
-<p align="left">Meu nome é Adriano Teixeira. Tenho 20 anos</p>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-<p align="left">📚 Faço faculdade de Análise e Desenvolvimento de Sistemas</p>
-<p align="left">📚 Atualmente estou aprendendo C#</p>
-
-
-###
-
-<h2 align="left">Codificando em </h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-<h2></h2>
-<p align="left">Mas atualmente estou mais interessado em C# </p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianoATBS&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdrianoATBS&radius=16&theme=gotham&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianoATBS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
+<h1 align="center">Olá, Bem-vindo! 👋</h1>
 
 <p align="center">
-  <img align="center" src="https://i.pinimg.com/originals/53/f0/9c/53f09c2bab801aabfe1ceae5d5a4c15c.gif" alt="Imagem">
+  Meu nome é <b>Adriano Teixeira</b>, tenho 20 anos e sou apaixonado por tecnologia. Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> e estou focado em me tornar um <b>Desenvolvedor Back-End</b>.
 </p>
 
-###
+---
+
+<h2 align="left">🛠️ Sobre Mim</h2>
+
+- 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Estácio.
+- 💻 Estudando **C# e .NET** com foco em **Clean Architecture** e boas práticas.
+- 🚀 Interessado em desenvolvimento de APIs, banco de dados e projetos inclusivos.
+- 🎯 Objetivo: Me especializar em **arquiteturas modernas** e contribuir para soluções inovadoras.
+- 🛡️ Interesse em **Cyber Segurança** como um campo de exploração futura.
+
+---
+
+<h2 align="left">💻 Tecnologias e Ferramentas</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+</div>
+
+---
+
+<h2 align="left">🌟 Projetos em Destaque</h2>
+
+- **Kognito – App Escolar para Neurodivergentes**  
+  Um aplicativo inclusivo que utiliza gamificação para engajar alunos neurodivergentes.  
+  - Tecnologias: **C#, .NET, SQL Server**  
+  - Contribuições: Implementação do back-end com **Clean Architecture** e práticas escaláveis.  
+  [🔗 Repositório no GitHub](https://github.com/AdrianoATBS/kognito-backend)
+
+---
+
+<h2 align="left">📈 Minhas Estatísticas</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianoATBS&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrianoATBS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true" height="150" alt="stats graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdrianoATBS&radius=16&theme=gotham&area=true&hide_border=true" height="300" alt="activity graph" />
+</div>
+
+---
+
+<h2 align="left">📬 Contato</h2>
+
+- 📧 **E-mail:** [tiadrianoteixeira1223@gmail.com](mailto:tiadrianoteixeira1223@gmail.com)
+- 🔗 **LinkedIn:** [Adriano Teixeira Benevenuto Sampaio](https://www.linkedin.com/in/adriano-teixeira-benevenuto-sampaio-236151330/)
+- 🐱 **GitHub:** [AdrianoATBS](https://github.com/AdrianoATBS)
+
+---
+
+<p align="center">
+  <img align="center" src="https://i.pinimg.com/originals/53/f0/9c/53f09c2bab801aabfe1ceae5d5a4c15c.gif" alt="Imagem" />
+</p>
