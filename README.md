@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://i.pinimg.com/originals/f2/42/99/f242993bff60bcff09b7b8ebc77b6040.gif" alt="Terminal Animado" />
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=588775351319922264" height="714" width="345" frameborder="0" scrolling="no" ></iframe>
 </p>
