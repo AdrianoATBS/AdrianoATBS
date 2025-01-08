@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-  [<iframe src="https://assets.pinterest.com/ext/embed.html?id=588775351319922264" height="714" width="345" frameborder="0" scrolling="no" ></iframe>](https://pin.it/29nYnot9m)
+  <img align="center" src="https://camo.githubusercontent.com/33f542dd01e5fa5222d30a3f75c27e766cbf8c79e60c9b86347eb519fef1afc3/68747470733a2f2f692e696d6775722e636f6d2f33486b7a6a77492e676966" alt="GIF Programação" />
 </p>
