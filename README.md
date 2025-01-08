@@ -67,6 +67,3 @@
 
 ---
 
-<p align="center">
-  <img align="center" srchttps://assets.pinterest.com/ext/embed.html?id=77067855500520137" alt="GIF Programação" />
-</p>
