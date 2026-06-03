@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="img/banner.png" alt="Banner" />
-</p>
-
-<p align="center">
-
-<a href="#sobre-mim">ABOUT</a> • <a href="#tecnologias">SKILLS</a> • <a href="#estatisticas">STATS</a> • <a href="#objetivos">GOALS</a> • <a href="#contato">CONTACT</a>
-
+  <img src="img/banner1.png" alt="Banner" />
 </p>
 
 <p align="center">
@@ -26,23 +20,121 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+# Sobre Mim
 
-Desenvolvedor Full Stack focado em .NET, React, Next.js e TypeScript.
+<table>
+<tr>
 
-Atualmente concentro meus esforços na construção de aplicações reais para fortalecer minhas habilidades práticas tanto no Back-end quanto no Front-end, evoluindo através de projetos cada vez mais completos.
+<td width="220">
+
+<img src="img/owl.png" width="180"/>
+
+</td>
+
+<td>
+
+Desenvolvedor Full Stack focado na construção de aplicações utilizando .NET, React, Next.js e TypeScript.
+
+Atualmente concentro meus esforços no desenvolvimento de projetos cada vez mais completos, buscando evoluir através da prática e da resolução de problemas reais.
+
+Meu principal objetivo é fortalecer minhas habilidades tanto no Back-end quanto no Front-end enquanto construo um portfólio sólido e profissional.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## ⚒️ Tecnologias
+#  Back-end
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,react,nextjs,typescript,tailwind,git,docker,vscode" />
-</p>
+<table align="center">
+
+<tr>
+<td width="60">
+<img src="https://skillicons.dev/icons?i=cs" />
+</td>
+<td>C#</td>
+</tr>
+
+<tr>
+<td width="60">
+<img src="https://skillicons.dev/icons?i=dotnet" />
+</td>
+<td>.NET</td>
+</tr>
+
+<tr>
+<td width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+</td>
+<td>SQL Server</td>
+</tr>
+
+</table>
 
 ---
 
-## 📊 Estatísticas
+# Front-end
+
+<table align="center">
+
+<tr>
+<td width="60">
+<img src="https://skillicons.dev/icons?i=react" />
+</td>
+<td>React</td>
+</tr>
+
+<tr>
+<td width="60">
+<img src="https://skillicons.dev/icons?i=nextjs" />
+</td>
+<td>Next.js</td>
+</tr>
+
+<tr>
+<td width="60">
+<img src="https://skillicons.dev/icons?i=typescript" />
+</td>
+<td>TypeScript</td>
+</tr>
+
+<tr>
+<td width="60">
+<img src="https://skillicons.dev/icons?i=tailwind" />
+</td>
+<td>Tailwind CSS</td>
+</tr>
+
+</table>
+
+---
+
+# Ferramentas
+
+<table align="center">
+
+<tr>
+<td width="60">
+<img src="https://skillicons.dev/icons?i=git" />
+</td>
+<td>Git</td>
+</tr>
+
+<tr>
+<td width="60">
+<img src="https://skillicons.dev/icons?i=docker" />
+</td>
+<td>Docker</td>
+</tr>
+
+
+</table>
+
+---
+
+# Estatísticas
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdrianoATBS&theme=github_dark" />
@@ -56,34 +148,4 @@ Atualmente concentro meus esforços na construção de aplicações reais para f
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdrianoATBS&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdrianoATBS&theme=github_dark" />
-</p>
-
----
-
-## 🎯 Objetivos para 2026
-
-* Construir sistemas cada vez mais próximos de aplicações reais
-* Aprimorar conhecimentos em .NET
-* Evoluir no desenvolvimento Front-end moderno
-* Expandir meu portfólio com projetos completos
-* Consolidar conhecimentos em desenvolvimento Full Stack
-
----
-
-## 📬 Contato
-
-<p align="center">
-
-<a href="mailto:tiadrianoteixeira1223@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/adriano-teixeira-benevenuto-sampaio-236151330/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://adriano-atbs.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFÓLIO-E67E22?style=for-the-badge"/>
-</a>
-
 </p>
