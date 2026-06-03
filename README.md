@@ -33,7 +33,11 @@
 
 <td>
 
-<img src="img/texto.png" width="180"/>
+Desenvolvedor Full Stack construindo aplicações com .NET, React, Next.js e TypeScript, sempre buscando ampliar meus conhecimentos através da prática e da criação de novos projetos.
+
+Minha trajetória na tecnologia começou pela curiosidade e se transformou em uma busca constante por aprendizado e evolução através da prática. Desde então, venho desenvolvendo projetos que me permitem explorar diferentes desafios, aprimorar minhas habilidades técnicas e compreender o desenvolvimento de software de forma cada vez mais completa.
+
+Atualmente, concentro meus esforços na criação de aplicações reais e na construção de um portfólio que reflita minha evolução como desenvolvedor, sempre buscando unir organização, boas práticas e experiência prática em cada projeto.
 
 </td>
 
