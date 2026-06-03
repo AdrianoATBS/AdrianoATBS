@@ -33,11 +33,7 @@
 
 <td>
 
-Desenvolvedor Full Stack focado na construção de aplicações utilizando .NET, React, Next.js e TypeScript.
-
-Atualmente concentro meus esforços no desenvolvimento de projetos cada vez mais completos, buscando evoluir através da prática e da resolução de problemas reais.
-
-Meu principal objetivo é fortalecer minhas habilidades tanto no Back-end quanto no Front-end enquanto construo um portfólio sólido e profissional.
+<img src="img/texto.png" width="180"/>
 
 </td>
 
