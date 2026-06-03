@@ -1,69 +1,89 @@
-<h1 align="center">Olá, Bem-vindo! 👋</h1>
+<p align="center">
+  <img src="img/banner.png" alt="Banner" />
+</p>
 
 <p align="center">
-  Meu nome é <b>Adriano Teixeira</b>, tenho 21 anos e sou apaixonado por tecnologia. Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> e estou focado em me tornar um <b>Desenvolvedor Back-End</b>.
+
+<a href="#sobre-mim">ABOUT</a> • <a href="#tecnologias">SKILLS</a> • <a href="#estatisticas">STATS</a> • <a href="#objetivos">GOALS</a> • <a href="#contato">CONTACT</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://adriano-atbs.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFÓLIO-E67E22?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adriano-teixeira-benevenuto-sampaio-236151330/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tiadrianoteixeira1223@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<h2 align="left">🛠️ Sobre Mim</h2>
+## 👨‍💻 Sobre Mim
 
-- 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Estácio.
-- 💻 Estudando **C# e .NET** com foco em **Clean Architecture** e boas práticas.
-- 🚀 Interessado em desenvolvimento de APIs, banco de dados e soluções tecnológicas que causem impacto positivo.
-- 🎯 Objetivo: Desenvolver sistemas eficientes e escaláveis, aplicando boas práticas de desenvolvimento.
-- 🛡️ Interesse em **Cyber Segurança** como um campo de exploração futura.
+Desenvolvedor Full Stack focado em .NET, React, Next.js e TypeScript.
+
+Atualmente concentro meus esforços na construção de aplicações reais para fortalecer minhas habilidades práticas tanto no Back-end quanto no Front-end, evoluindo através de projetos cada vez mais completos.
 
 ---
 
-<h2 align="left">💻 Tecnologias e Ferramentas</h2>
+## ⚒️ Tecnologias
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,react,nextjs,typescript,tailwind,git,docker,vscode" />
+</p>
 
 ---
 
-<h2 align="left">🌟 Projetos em Destaque</h2>
+## 📊 Estatísticas
 
-- **Kognito – App Escolar para Neurodivergentes**  
-  Um aplicativo inclusivo que utiliza gamificação para engajar alunos neurodivergentes.  
-  - Tecnologias: **C#, .NET, SQL Server**  
-  - Contribuições: Implementação do back-end com **Clean Architecture** e práticas escaláveis.  
-  [🔗 Repositório no GitHub](https://github.com/AdrianoATBS/kognito-backend)
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdrianoATBS&theme=github_dark" />
+</p>
 
----
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdrianoATBS&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdrianoATBS&theme=github_dark&utcOffset=-3" />
+</p>
 
-<h2 align="left">📈 Minhas Estatísticas</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianoATBS&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianoATBS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true" height="150" alt="stats graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdrianoATBS&radius=16&theme=gotham&area=true&hide_border=true" height="300" alt="activity graph" />
-</div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdrianoATBS&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdrianoATBS&theme=github_dark" />
+</p>
 
 ---
 
-<h2 align="left">📬 Contato</h2>
+## 🎯 Objetivos para 2026
 
-- 📧 **E-mail:** [tiadrianoteixeira1223@gmail.com](mailto:tiadrianoteixeira1223@gmail.com)
-- 🔗 **LinkedIn:** [Adriano Teixeira Benevenuto Sampaio](https://www.linkedin.com/in/adriano-teixeira-benevenuto-sampaio-236151330/)
-- 🐱 **GitHub:** [AdrianoATBS](https://github.com/AdrianoATBS)
+* Construir sistemas cada vez mais próximos de aplicações reais
+* Aprimorar conhecimentos em .NET
+* Evoluir no desenvolvimento Front-end moderno
+* Expandir meu portfólio com projetos completos
+* Consolidar conhecimentos em desenvolvimento Full Stack
 
 ---
 
+## 📬 Contato
+
+<p align="center">
+
+<a href="mailto:tiadrianoteixeira1223@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adriano-teixeira-benevenuto-sampaio-236151330/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://adriano-atbs.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFÓLIO-E67E22?style=for-the-badge"/>
+</a>
+
+</p>
